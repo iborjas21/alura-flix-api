@@ -13,7 +13,7 @@
         "titulo": "Productividad en el trabajo remoto",
         "img": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Gabi.png",
         "link": "https://www.youtube.com/embed/AULPtYo25Lw?si=UGdKX1NSrEcQ0jfn",
-        "categoria": "Programación",
+        "categoria": "BACK END",
         "descripcion": "revisar"
     },
     {
@@ -21,7 +21,7 @@
         "titulo": "¿Cuáles son las principales áreas de la programación?",
         "img": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Genesis.png",
         "link": "https://www.youtube.com/embed/03cxUlwLVt4?si=zVCUQNO-eS2RZQTO",
-        "categoria": "Back-End",
+        "categoria": "BACK END",
         "descripcion": "revisar"
     },
     {
@@ -29,7 +29,7 @@
         "titulo": "Detección de intruso con IA",
         "img": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Ale.png",
         "link": "https://www.youtube.com/embed/5T_Q_NtNLZE?si=M7D0JeagaKqsoaFs",
-        "categoria": "Front-End",
+        "categoria": "FRONT END",
         "descripcion": "revisar"
     }, 
     {
@@ -37,7 +37,7 @@
         "titulo": "Como utilizar el Display block, inline, inline-block",
         "img": "https://caelum-online-public.s3.amazonaws.com/ESP-2052+-++React%3A+practicando+React+con+Js/282x425+-+Jean.png",
         "link": "https://www.youtube.com/embed/AG2QssLpQzI?si=6Yn355wcxAqU7_Ld",
-        "categoria": "Programación",
+        "categoria": "MOBILE",
         "descripcion": "Como utilizar el Display block, inline, inline-block"
     }
     
